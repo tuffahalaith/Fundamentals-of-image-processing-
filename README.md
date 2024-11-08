@@ -1,6 +1,6 @@
 # Image Processing with MATLAB
 
-This repository contains a MATLAB script for performing various image processing tasks. It demonstrates foundational techniques in image manipulation, including color channel extraction, grayscale conversion, image resizing, gamma correction, gray-level slicing, and bit-plane manipulation. 
+This project offers a hands-on introduction to core image processing techniques using MATLAB. Through a series of tasks, i was exploreing methods for manipulating and analyzing images, from color channel extraction to grayscale transformations, resizing, gamma correction, gray-level slicing, and bit-plane manipulation.
 
 ## Tasks Overview
 
@@ -38,14 +38,3 @@ This repository contains a MATLAB script for performing various image processing
 ## Requirements
 - MATLAB R2020a or later
 - Images: `CMYK.png` (color image) and `abdomen.jpeg` (grayscale image)
-
-## Usage
-1. Clone this repository.
-2. Place the images `CMYK.png` and `abdomen.jpeg` in the same directory as the script.
-3. Run the script in MATLAB to execute all tasks and view the results.
-
-## Output
-Each task displays its output in a separate figure window, illustrating the effects of different image processing techniques. 
-
-## License
-This project is open-source and available under the MIT License. See the `LICENSE` file for more details.
